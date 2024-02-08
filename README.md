@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Sohelrana-dev&theme=onedark" alt="https://github.com/Sohelrana-dev" /></a> </p>
 
 - 🔭 I’m currently Development a Laravel E-commerce Website **The Mart**
 - 🌱 I’m currently learningn PHP laravel. **Creative IT Institute**
