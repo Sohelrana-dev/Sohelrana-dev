@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **PHP, Laravel, HTML, CSS, Bootstrap**
 
-- 📫 How to reach me **sohelrana.dev55@gmail.com**
+- 📫 How to reach me **sohelrana.cit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
